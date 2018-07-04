@@ -1,5 +1,5 @@
 {
-  "name": "vue-easytable",
+  "name": "apply-table",
   "version": "1.7.0",
   "description": "vue table component",
   "main": "libs/index.js",
